@@ -10,6 +10,8 @@
 - [Testing: Spring Boot Integration Testing](.cursor/rules/312-frameworks-spring-boot-integration-testing.mdc)
 - [Testing: Spring Boot Local Testing with Docker Compose](.cursor/rules/313-frameworks-spring-boot-local-testing.mdc)
 - [Advanced: Spring Boot Native Compilation](.cursor/rules/321-frameworks-spring-boot-native-compilation.mdc)
+- [Database: SQL](.cursor/rules/500-sql.mdc)
+
 
 ## Getting started
 

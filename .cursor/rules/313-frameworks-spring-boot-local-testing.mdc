@@ -1,5 +1,5 @@
 ---
-description: 
+description: Spring Boot Local Testing with Docker Compose
 globs: 
 alwaysApply: false
 ---

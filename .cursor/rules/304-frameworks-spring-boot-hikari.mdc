@@ -1,11 +1,11 @@
 ---
-description: 
+description: Spring Boot HikariCP Connection Pool Configuration
 globs: 
 alwaysApply: false
 ---
 # Spring Boot HikariCP Connection Pool Configuration
 
-HikariCP is the default connection pool for Spring Boot 2.x+ and is known for being the fastest, most reliable connection pool available for Java applications. This guide will help you configure HikariCP optimally for your Spring Boot applications.
+HikariCP is the default connection pool for Spring Boot and is known for being the fastest, most reliable connection pool available for Java applications. This guide will help you configure HikariCP optimally for your Spring Boot applications.
 
 ## Implementing These Principles
 

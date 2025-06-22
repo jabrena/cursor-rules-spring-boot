@@ -1,6 +1,6 @@
 ---
 description: Spring Boot Core
-globs: 
+globs: **/*.java
 alwaysApply: false
 ---
 # Spring Boot Core

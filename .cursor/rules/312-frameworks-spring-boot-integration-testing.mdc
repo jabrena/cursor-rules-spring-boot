@@ -1,6 +1,6 @@
 ---
 description: Java Integration testing guidelines
-globs: 
+globs: **/*IT.java
 alwaysApply: false
 ---
 # Java Integration testing guidelines

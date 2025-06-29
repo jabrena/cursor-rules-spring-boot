@@ -1,6 +1,6 @@
 ---
-description: Spring Boot HikariCP Connection Pool Configuration
-globs: **/*.java
+description: 
+globs: 
 alwaysApply: false
 ---
 # Spring Boot HikariCP Connection Pool Configuration

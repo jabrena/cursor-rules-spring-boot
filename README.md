@@ -2,16 +2,24 @@
 
 ## Cursor Rules
 
-- [Frameworks: Spring Boot Core](.cursor/rules/301-frameworks-spring-boot-core.mdc)
-- [Frameworks: Spring Boot REST API](.cursor/rules/302-frameworks-spring-boot-rest.mdc)
-- [Frameworks: Spring Data JDBC](.cursor/rules/303-frameworks-spring-data-jdbc.mdc)
-- [Frameworks: Spring Boot HikariCP](.cursor/rules/304-frameworks-spring-boot-hikari.mdc)
-- [Testing: Spring Boot Slice Testing](.cursor/rules/311-frameworks-spring-boot-slice-testing.mdc)
-- [Testing: Spring Boot Integration Testing](.cursor/rules/312-frameworks-spring-boot-integration-testing.mdc)
-- [Testing: Spring Boot Local Testing with Docker Compose](.cursor/rules/313-frameworks-spring-boot-local-testing.mdc)
-- [Advanced: Spring Boot Native Compilation](.cursor/rules/321-frameworks-spring-boot-native-compilation.mdc)
-- [Database: SQL](.cursor/rules/500-sql.mdc)
+### Spring Boot rules
 
+| Cursor Rule | Description | Prompt | Notes |
+|-------------|-------------|--------|-------|
+| [301-frameworks-spring-boot-core](.cursor/rules/301-frameworks-spring-boot-core.mdc) | Spring Boot Core | `Review my Spring Boot application using the cursor rule @301-frameworks-spring-boot-core` | Add in the context the Spring Boot classes you want to review |
+| [302-frameworks-spring-boot-rest](.cursor/rules/302-frameworks-spring-boot-rest.mdc) | REST API Design Principles | `Review my REST API design using the cursor rule @302-frameworks-spring-boot-rest` | Add in the context the REST controllers to review |
+| [303-frameworks-spring-data-jdbc](.cursor/rules/303-frameworks-spring-data-jdbc.mdc) | Spring Data JDBC | `Improve my Spring Data JDBC implementation using the cursor rule @303-frameworks-spring-data-jdbc` | Add in the context the repository classes and entities |
+| [304-frameworks-spring-boot-hikari](.cursor/rules/304-frameworks-spring-boot-hikari.mdc) | HikariCP Connection Pool Configuration | `Review my HikariCP configuration using the cursor rule @304-frameworks-spring-boot-hikari` | Add in the context your application properties files |
+| [311-frameworks-spring-boot-slice-testing](.cursor/rules/311-frameworks-spring-boot-slice-testing.mdc) | Spring Boot Slice Testing | `Improve my slice tests using the cursor rule @311-frameworks-spring-boot-slice-testing` | Add in the context the test classes to review |
+| [312-frameworks-spring-boot-integration-testing](.cursor/rules/312-frameworks-spring-boot-integration-testing.mdc) | Integration Testing Guidelines | `Review my integration tests using the cursor rule @312-frameworks-spring-boot-integration-testing` | Add in the context the integration test classes |
+| [313-frameworks-spring-boot-local-testing](.cursor/rules/313-frameworks-spring-boot-local-testing.mdc) | Local Testing with Docker Compose | `Improve my local testing setup using the cursor rule @313-frameworks-spring-boot-local-testing` | Add in the context your docker-compose.yaml and test configuration |
+| [321-frameworks-spring-boot-native-compilation](.cursor/rules/321-frameworks-spring-boot-native-compilation.mdc) | Native Compilation | `Optimize my Spring Boot app for native compilation using the cursor rule @321-frameworks-spring-boot-native-compilation` | Add in the context your pom.xml and application configuration |
+
+### SQL rules
+
+| Cursor Rule | Description | Prompt | Notes |
+|-------------|-------------|--------|-------|
+| [500-sql](.cursor/rules/500-sql.mdc) | SQL Development Guidelines | `Review my SQL code and database design using the cursor rule @500-sql` | Add in the context your SQL files, database schema, or migration scripts |
 
 ## Getting started
 

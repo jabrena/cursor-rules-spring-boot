@@ -1,5 +1,7 @@
 # Cursor rules for Spring Boot
 
+THIS COLLECTION OF CURSOR-RULES/SYSTEM-PROMPTS WERE INTEGRATED IN https://github.com/jabrena/cursor-rules-java
+
 ## Cursor Rules
 
 ### Spring Boot rules
